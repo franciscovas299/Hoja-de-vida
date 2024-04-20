@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+
+    max-width: 800px;
+    margin: 20px auto;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fffefe;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(3, 80, 300, 0.966);
+    margin-top: 50px;
+}
+.datos-personales img {
+    border-radius: 50%;
+    margin-right: 20px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    padding: 10px;
+    border-bottom: 1px solid #000000;
+    text-align: left;
+}
+th { 
+    background-color: #0d74fc;
+}
+.img-01{
+     
+    width: 200px;  
+    margin-left: 200px;
+}
